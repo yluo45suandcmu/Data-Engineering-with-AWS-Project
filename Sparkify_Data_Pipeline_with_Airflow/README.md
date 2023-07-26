@@ -46,3 +46,5 @@ Implement the following four operators:
 
 ## Running the Project
 After setting up, you can run the project by triggering the data pipeline from the Airflow UI.
+
+![Working DAG with correct task dependencies](example-dag.png)
